@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Simple Logic AND gate with switch 1 and 2 as inputs to turn LED on
+Simple Logic AND gate with switch 1 and 2 as inputs to turn LED on.
 
 ## How to test
 
-Flip 1 or 2 switch 
+Flip 1 or 2 switch.
 
 ## External hardware
 
-single LED
+single LED.
