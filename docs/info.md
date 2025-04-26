@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Simple Logic AND gate with switch 1 and 2 as inputs to turn LED on
 
 ## How to test
 
-Explain how to use your project
+Flip 1 or 2 switch 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+single LED
